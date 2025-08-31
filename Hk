@@ -1,0 +1,40 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="cnbctv18prime" tvg-name="CNBC TV18 Prime" group-title="News",CNBC TV18 Prime
+https://live.dinesh29.com.np/stream/jiotvplus/cnbctv18prime/master.m3u8
+
+#EXTINF:-1 tvg-id="colorshd" tvg-name="Colors HD" group-title="Entertainment",Colors HD
+https://live.dinesh29.com.np/stream/jiotvplus/colorshd/master.m3u8
+
+#EXTINF:-1 tvg-id="historytv18hd" tvg-name="History TV18 HD" group-title="Knowledge",History TV18 HD
+https://live.dinesh29.com.np/stream/jiotvplus/historytv18hd/master.m3u8
+
+#EXTINF:-1 tvg-id="sonyten5hd" tvg-name="Sony Ten 5 HD" group-title="Sports",Sony Ten 5 HD
+https://live.dinesh29.com.np/stream/jiotvplus/sonyten5hd/master.m3u8
+
+#EXTINF:-1 tvg-id="stargoldhd" tvg-name="Star Gold HD" group-title="Movies",Star Gold HD
+https://live.dinesh29.com.np/stream/jiotvplus/stargoldhd/master.m3u8
+
+#EXTINF:-1 tvg-id="sonyten1hd" tvg-name="Sony Ten 1 HD" group-title="Sports",Sony Ten 1 HD
+https://live.dinesh29.com.np/stream/jiotvplus/sonyten1hd/master.m3u8
+
+#EXTINF:-1 tvg-id="travelxphd" tvg-name="Travelxp HD" group-title="Lifestyle",Travelxp HD
+https://live.dinesh29.com.np/stream/jiotvplus/travelxphd/master.m3u8
+
+#EXTINF:-1 tvg-id="cartoonnetworktelugu" tvg-name="Cartoon Network Telugu" group-title="Kids",Cartoon Network Telugu
+https://live.dinesh29.com.np/stream/jiotvplus/cartoonnetworktelugu/master.m3u8
+
+#EXTINF:-1 tvg-id="aajtak" tvg-name="Aaj Tak" group-title="News",Aaj Tak
+https://live.dinesh29.com.np/stream/jiotvplus/aajtak/master.m3u8
+
+#EXTINF:-1 tvg-id="aastha" tvg-name="Aastha" group-title="Spiritual",Aastha
+https://live.dinesh29.com.np/stream/jiotvplus/aastha/master.m3u8
+
+#EXTINF:-1 tvg-id="asianetnews" tvg-name="Asianet News" group-title="News",Asianet News
+https://live.dinesh29.com.np/stream/jiotvplus/asianetnews/master.m3u8
+
+#EXTINF:-1 tvg-id="cnbcawaaz" tvg-name="CNBC Awaaz" group-title="News",CNBC Awaaz
+https://live.dinesh29.com.np/stream/jiotvplus/cnbcawaaz/master.m3u8
+
+#EXTINF:-1 tvg-id="cnn" tvg-name="CNN" group-title="News",CNN
+https://live.dinesh29.com.np/stream/jiotvplus/cnn/master.m3u8
