@@ -1,6 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="5c42f69f96db" tvg-logo="https://example.com/sony.png" group-title="Toffee", Sony HD
-https://www.xfireflix.fun/test/live.php?id=5c42f69f96db&e=.m3u8
-
-#EXTINF:-1 tvg-id="7b12d34a89cd" tvg-logo="https://example.com/star.png" group-title="Toffee", Star Plus
-https://www.xfireflix.fun/test/live.php?id=7b12d34a89cd&e=.m3u8
